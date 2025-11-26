@@ -1,4 +1,4 @@
-# aptamer-benchmark
+# Protein-aptamer complex benchmark
 This repository contains the datasets and selected scripts used in the paper:
 
 “Comprehensive Evaluation of Artificial Intelligence-Empowered Approaches for Protein–Aptamer Complex Prediction” (Zhao et al.)
