@@ -17,10 +17,7 @@ scripts/
 ## Citing This Work
 ```bibtex
 @Article{Zhao2026,
-author={Zhao, Jiani
-and Tram, Kha
-and Yan, Hongbin
-and Li, Yifeng},
+author={Zhao, Jiani and Tram, Kha and Yan, Hongbin and Li, Yifeng},
 title={Comprehensive evaluation of artificial intelligence-empowered approaches for protein--aptamer complex prediction},
 journal={Briefings in Bioinformatics},
 year={2026},
